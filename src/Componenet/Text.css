@@ -1,0 +1,15 @@
+.text textarea{
+    height:10rem;
+    width:70rem;
+    outline: none;
+    background-color: #dadfe4;
+}
+.allText >*{
+    margin: 1rem;
+}
+
+.text{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
