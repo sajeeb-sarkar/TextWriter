@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TextWriter/static/css/main.80257653.css",
+    "main.js": "/TextWriter/static/js/main.f57f3b6c.js",
+    "index.html": "/TextWriter/index.html",
+    "main.80257653.css.map": "/TextWriter/static/css/main.80257653.css.map",
+    "main.f57f3b6c.js.map": "/TextWriter/static/js/main.f57f3b6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80257653.css",
+    "static/js/main.f57f3b6c.js"
+  ]
+}
